@@ -19,7 +19,7 @@ I am currently pursuing a **B.S. in Mathematics & Statistics** at the University
 
 - Built and pretrained a small transformer model from scratch to study fundamental arithmetic.
 - Visualized the pretrained model to analyze its internal representations and mechanisms.
-- Supervised by [Yixin Wang](https://yixinwang.github.io/)
+- Supervised by [Yixin Wang](https://yixinwang.github.io/).
 
 ---
 
@@ -34,9 +34,27 @@ I am currently pursuing a **B.S. in Mathematics & Statistics** at the University
 
 # Academic Projects
 **Netflix Prize**
-- Processed 180,000 recent [ratings](https://drive.google.com/drive/folders/1XHeYTwgp9M4-V3shLd2loemdaoQGhi6d) with time-based splitting using Pandas & numpy.
+- Processed 180,000 recent [ratings](https://drive.google.com/drive/folders/1XHeYTwgp9M4-V3shLd2loemdaoQGhi6d) with time-based splitting.
 - Implemented neighborhood-based methods including NB-CORR and NB-LS from scratch to compute similarity scores and leverage user-item correlations, achieving test RMSE of 0.9751 and 0.9583 respectively.
 - Developed an ensemble model using linear regression to combine predictions from matrix factorization and neighborhood-based models to enhance overall accuracy. Fine-tuned weights with OLS, achieving a test RMSE of 0.9262.
 - Performed EDA and visualized the relationships between hyperparameters and RMSE to evaluate model performance.
 
-View Project on [GitHub](https://github.com/4everXYZ/netflix-project.git) and Download [Paper](https://drive.google.com/file/d/15OHwAAsIauEN8Wv1goT5aCmYXwBS2_5T/view?usp=drive_link)
+View project on [GitHub](https://github.com/4everXYZ/netflix-project.git) and download [Paper](https://drive.google.com/file/d/15OHwAAsIauEN8Wv1goT5aCmYXwBS2_5T/view?usp=drive_link)
+
+---
+
+**Recipe Ratings Prediction**
+- Cleaned datasets from [Food.com](https://www.food.com/) and performed feature engineering including polynomial transformations, one-hot encoding, and scaling to enhance model performance and capture nonlinear relationships.
+- Implemented Ridge Regression with fine-tuned hyperparameters using GridSearchCV, achieving a test RMSE of 0.4906.
+- Developed a Jekyll-based website with integrated Plotly graphs and tables to enhance data visualization and user engagement.
+
+View [website](https://fangyua666.github.io/recipe-rating-prediction/)
+---
+
+**Deep Facial Expression Recognition**
+- Processed an imbalanced dataset of 35,352 images, including manual correction of mislabeled samples to improve accuracy.
+- Leveraged ResNet34 architecture with transfer learning to improve model performance, increasing accuracy from 64% to 70%.
+- Fine-tuned the model by adjusting learning rate and applying class balancing techniques, reducing error by 6%.
+
+Download [Paper](https://drive.google.com/file/d/1MI1U6uFKZotpC2txwIrAS9-EJPCK_Ppl/view?usp=sharing)
+
