@@ -15,8 +15,7 @@ I am currently pursuing a **B.S. in Mathematics & Statistics** at the University
 ---
 
 # Experience
-**Research Assistant**, University of Michigan
-
+**Research Assistant, University of Michigan**
 *Dec. 2023 - present*
 - Built and pretrained a small transformer model from scratch to study fundamental arithmetic
 - Visualized the pretrained model to analyze its internal representations and mechanisms
@@ -24,8 +23,7 @@ I am currently pursuing a **B.S. in Mathematics & Statistics** at the University
 
 ---
 
-**Data Analyst**, AstraZeneca
-
+**Data Analyst, AstraZeneca**
 *Jun. 2023 - Aug 2023*
 - Analyzed product performance using SQL and Excel, handling data from 80K+ local system entries
 - Developed and monitored interactive Power BI dashboards to track KPIs
