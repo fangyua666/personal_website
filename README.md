@@ -33,3 +33,10 @@ I am currently pursuing a **B.S. in Mathematics & Statistics** at the University
 ---
 
 # Academic Projects
+**Netflix Prize**
+- Processed 180,000 recent [ratings](https://drive.google.com/drive/folders/1XHeYTwgp9M4-V3shLd2loemdaoQGhi6d) with time-based splitting using Pandas & numpy.
+- Implemented neighborhood-based methods including NB-CORR and NB-LS from scratch to compute similarity scores and leverage user-item correlations, achieving test RMSE of 0.9751 and 0.9583 respectively.
+- Developed an ensemble model using linear regression to combine predictions from matrix factorization and neighborhood-based models to enhance overall accuracy. Fine-tuned weights with OLS, achieving a test RMSE of 0.9262.
+- Performed EDA and visualized the relationships between hyperparameters and RMSE to evaluate model performance.
+
+View Project on [GitHub](https://github.com/4everXYZ/netflix-project.git) and Download [Paper](https://drive.google.com/file/d/15OHwAAsIauEN8Wv1goT5aCmYXwBS2_5T/view?usp=drive_link)
