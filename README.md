@@ -7,10 +7,11 @@ I am currently pursuing a **B.S. in Mathematics & Statistics** at the University
 **University of Michigan, Ann Arbor**    
 *Expected Fall 2025*
 
-**Program**: B.S in Statistics & Mathematical Science - Numerical and Applied Analysis
+**Program**: B.S in Statistics & Mathematics - Numerical and Applied Analysis
 
 **Core Coursework**: Machine Learning, Deep Learning, Real Analysis, Numerical Method, Linear Algebra, C/C++ Programming, Data Structure, Probability Theory, Optimization.
 
+**GPA**: Mathematics(3.745), Statistics(3.920)
 
 ---
 
@@ -68,4 +69,4 @@ Download [paper](https://drive.google.com/file/d/1MI1U6uFKZotpC2txwIrAS9-EJPCK_P
 
 **Developer tools**: Tableau, Git, Jekyll
 
-**Communication skills**: English(Professional), Mandarin(Native)
+**Communication skills**: English (professional), Mandarin (native)
