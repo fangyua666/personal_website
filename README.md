@@ -5,7 +5,7 @@ I am currently pursuing a **B.S. in Mathematics & Statistics** at the University
 
 # Education
 **University of Michigan, Ann Arbor**    
-*Expected May 2026*
+*Expected Fall 2025*
 
 **Program**: B.S in Statistics & Mathematical Science - Numerical and Applied Analysis
 
