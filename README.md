@@ -46,9 +46,8 @@ View project on [GitHub](https://github.com/4everXYZ/netflix-project.git) and do
 **Recipe Ratings Prediction**
 - Cleaned datasets from [Food.com](https://www.food.com/) and performed feature engineering including polynomial transformations, one-hot encoding, and scaling to enhance model performance and capture nonlinear relationships.
 - Implemented Ridge Regression with fine-tuned hyperparameters using GridSearchCV, achieving a test RMSE of 0.4906.
-- Developed a Jekyll-based website with integrated Plotly graphs and tables to enhance data visualization and user engagement.
+- Developed a Jekyll-based [website](https://fangyua666.github.io/recipe-rating-prediction/) with integrated Plotly graphs and tables to enhance data visualization and user engagement.
 
-View [website](https://fangyua666.github.io/recipe-rating-prediction/)
 ---
 
 **Deep Facial Expression Recognition**
