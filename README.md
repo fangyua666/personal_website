@@ -39,7 +39,7 @@ I am currently pursuing a **B.S. in Mathematics & Statistics** at the University
 - Developed an ensemble model using linear regression to combine predictions from matrix factorization and neighborhood-based models to enhance overall accuracy. Fine-tuned weights with OLS, achieving a test RMSE of 0.9262.
 - Performed EDA and visualized the relationships between hyperparameters and RMSE to evaluate model performance.
 
-View project on [GitHub](https://github.com/4everXYZ/netflix-project.git) and download [Paper](https://drive.google.com/file/d/15OHwAAsIauEN8Wv1goT5aCmYXwBS2_5T/view?usp=drive_link)
+View project on [GitHub](https://github.com/4everXYZ/netflix-project.git) and download [paper](https://drive.google.com/file/d/15OHwAAsIauEN8Wv1goT5aCmYXwBS2_5T/view?usp=drive_link)
 
 ---
 
@@ -57,7 +57,7 @@ View [website](https://fangyua666.github.io/recipe-rating-prediction/)
 - Leveraged ResNet34 architecture with transfer learning to improve model performance, increasing accuracy from 64% to 70%.
 - Fine-tuned the model by adjusting learning rate and applying class balancing techniques, reducing error by 6%.
 
-Download [Paper](https://drive.google.com/file/d/1MI1U6uFKZotpC2txwIrAS9-EJPCK_Ppl/view?usp=sharing)
+Download [paper](https://drive.google.com/file/d/1MI1U6uFKZotpC2txwIrAS9-EJPCK_Ppl/view?usp=sharing)
 
 ---
 
@@ -67,3 +67,5 @@ Download [Paper](https://drive.google.com/file/d/1MI1U6uFKZotpC2txwIrAS9-EJPCK_P
 **Libraries**: pandas, Numpy, Scikit-learn, PyTorch, TensorFlow
 
 **Developer tools**: Tableau, Git, Jekyll
+
+**Communication skills**: English(Professional), Mandarin(Native)
