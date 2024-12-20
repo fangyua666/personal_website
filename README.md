@@ -18,19 +18,19 @@ I am currently pursuing a **B.S. in Mathematics & Statistics** at the University
 **Research Assistant, University of Michigan**
 *Dec. 2023 - present*
 
-- Built and pretrained a small transformer model from scratch to study fundamental arithmetic
-- Visualized the pretrained model to analyze its internal representations and mechanisms
-- Supervised by Yixin Wang
+- Built and pretrained a small transformer model from scratch to study fundamental arithmetic.
+- Visualized the pretrained model to analyze its internal representations and mechanisms.
+- Supervised by [Yixin Wang](https://yixinwang.github.io/)
 
 ---
 
 **Data Analyst, AstraZeneca**
 *Jun. 2023 - Aug 2023*
 
-- Analyzed product performance using SQL and Excel, handling data from 80K+ local system entries
-- Developed and monitored interactive Power BI dashboards to track KPIs
-- Coordinated with Deloitte's supplier team daily, identifying bugs and improving accuracy by 25%
-- Collaborated with BISO team in publishing sales reports for June, July, and August
+- Analyzed product performance using SQL and Excel, handling data from 80K+ local system entries.
+- Developed and monitored interactive Power BI dashboards to track KPIs.
+- Coordinated with Deloitte's supplier team daily, identifying bugs and improving accuracy by 25%.
+- Collaborated with BISO team in publishing sales reports for June, July, and August.
 
 ---
 
