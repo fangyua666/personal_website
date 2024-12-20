@@ -63,7 +63,7 @@ Download [paper](https://drive.google.com/file/d/1MI1U6uFKZotpC2txwIrAS9-EJPCK_P
 ---
 
 # Technical Skills
-**Language**: Python, R, C/C++
+**Language**: Python, R, C/C++, SQL
 
 **Libraries**: pandas, Numpy, Scikit-learn, PyTorch, TensorFlow
 
