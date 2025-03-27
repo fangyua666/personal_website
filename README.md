@@ -1,30 +1,33 @@
 # About Me
-I am currently pursuing a **B.S. in Mathematics & Statistics** at the University of Michigan. My research interest lies in the field of machine learning and data analytics.
+I am currently pursuing a **B.S. in Mathematics & Statistics** at the University of Michigan. My research interest lies in NLP, LLMs, and machine learning, with a particular focus on pre-training LLMs and analyzing advanced self-improving transformer frameworks.
 
 ---
 
 # Education
 **University of Michigan, Ann Arbor**    
-*Expected Fall 2025*
+*Expected Dec 2025*
 
-**Program**: B.S in Statistics & Mathematics - Numerical and Applied Analysis
+**Program**: B.S in Statistics & Mathematics
 
-**Core Coursework**: Machine Learning, Deep Learning, Real Analysis, Numerical Method, Linear Algebra, C/C++ Programming, Data Structure, Probability Theory, Optimization.
+**Core Coursework**: Machine Learning, Optimization, Experimental Design, Deep Learning, Real Analysis, Numerical Method, Linear Algebra, C/C++ Programming, Data Structure, Probability Theory.
 
 **GPA**: Mathematics(3.745), Statistics(3.920)
 
 ---
 
 # Experience
-**Research Assistant, University of Michigan**, *Dec. 2023 - present*
+**Research Assistant, University of Michigan**, *Dec. 2024 - Present*
 
-- Built and pretrained a small transformer model from scratch to study fundamental arithmetic.
-- Visualized the pretrained model to analyze its internal representations and mechanisms.
-- Supervised by [Yixin Wang](https://yixinwang.github.io/).
+- Designed and trained a decoder-only transformer from scratch in PyTorch, adapting architectures from nanoGPT
+and Llama-3, achieving 99% accuracy on 1-10-digit reverse addition and string copying.
+- Built a self-improvement pipeline generating 50K high-confidence examples per round using unsupervised length filtering and 5-model majority voting, achieving 94% verification accuracy via confusion matrix analysis.
+- Scaled task difficulty from 10-digit to 20-digit operations over 10 self-improvement rounds, retaining 99% accuracy on extended tasks with no performance degradation.
+- Optimized model architecture via A/B testing (tracked in Weights & Biases), identifying reverse addition formatting for a 30% reduction in next-token prediction error. Selected NoPE over rotary embeddings for optimal memory-accuracy tradeoffs.
+- Gratefully advised by Professor [Yixin Wang](https://yixinwang.github.io/) and [Zhiwei Xu](https://zhiweixx.github.io/)
 
 ---
 
-**Data Analyst, AstraZeneca**, *Jun. 2023 - Aug 2023*
+**Data Analyst - Business Intelligence, AstraZeneca**, *Jun. 2023 - Aug 2023*
 
 - Analyzed product performance using SQL and Excel, handling data from 80K+ local system entries.
 - Developed and monitored interactive Power BI dashboards to track KPIs.
